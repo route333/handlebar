@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  },
+  "name": "handlebar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /node/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/route333/handlebar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/route333/handlebar/issues"
+  },
+  "homepage": "https://github.com/route333/handlebar#readme",
+  "description": ""
+}
